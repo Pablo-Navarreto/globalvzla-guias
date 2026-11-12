@@ -1,0 +1,22 @@
+/* Portada con el degradé de la marca y fotos con borde suave. */
+.portada {
+  background: linear-gradient(120deg, #5b3fc4 0%, #b03fbf 60%, #d6409f 100%);
+  color: #fff;
+  border-radius: 12px;
+  padding: 2.5rem 2rem;
+  margin-bottom: 2rem;
+}
+.portada h1 {
+  color: #fff;
+  margin: 0 0 .5rem;
+  font-weight: 600;
+}
+.portada p {
+  margin: 0;
+  font-size: 1.05rem;
+  opacity: .95;
+}
+.md-typeset img {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+}
