@@ -1,0 +1,58 @@
+site_name: Guías Global-VZLA
+site_description: Guías paso a paso para usar la herramienta Global-VZLA, escritas para quien empieza de cero.
+site_url: https://pablo-navarreto.github.io/globalvzla-guias/
+repo_url: https://github.com/Pablo-Navarreto/globalvzla-guias
+repo_name: globalvzla-guias
+edit_uri: ""
+copyright: Global-VZLA
+
+theme:
+  name: material
+  language: es
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a claro
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - toc.follow
+  icon:
+    logo: material/book-open-page-variant
+
+extra_css:
+  - assets/estilo.css
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Inicio: index.md
+  - Meta (Facebook e Instagram):
+      - Conectar Facebook e Instagram: meta/conectar-meta.md
