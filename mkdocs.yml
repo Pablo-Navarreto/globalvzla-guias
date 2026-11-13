@@ -26,6 +26,7 @@ theme:
         name: Cambiar a claro
   features:
     - navigation.tabs
+    - navigation.indexes
     - navigation.top
     - navigation.footer
     - search.suggest
@@ -55,5 +56,6 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - Meta (Facebook e Instagram):
+      - meta/index.md
       - Conectar Facebook e Instagram: meta/conectar-meta.md
       - Proteger tu portfolio: meta/proteger-portfolio.md
