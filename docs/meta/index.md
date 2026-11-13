@@ -7,7 +7,7 @@ Todo lo de Facebook e Instagram, en el orden en que conviene hacerlo. Cada guía
 | # | Guía | Qué vas a lograr |
 |---|---|---|
 | 1 | [Conectar Facebook e Instagram](conectar-meta.md) | Que la herramienta vea tus negocios, páginas, Instagram, cuentas de anuncios y píxeles. |
-| 2 | [Proteger tu portfolio](proteger-portfolio.md) | Que nadie entre sin el código del celular y que tu portfolio no quede sin dueño. |
+| 2 | [Proteger tu portfolio](proteger-portfolio.md) | Que nadie entre sin el código del celular, que tu portfolio no quede sin dueño y que tu página web quede a tu nombre. |
 
 ### Dentro de cada guía
 
@@ -25,6 +25,8 @@ Todo lo de Facebook e Instagram, en el orden en que conviene hacerlo. Cada guía
 - [Pedir un código del celular a todos](proteger-portfolio.md#parte-1-pedir-un-codigo-del-celular-a-todos)
 - [Agregar un segundo administrador](proteger-portfolio.md#parte-2-agregar-un-segundo-administrador)
 - [La otra persona acepta](proteger-portfolio.md#parte-3-la-otra-persona-acepta)
+- [Verificar tu página web (el dominio)](proteger-portfolio.md#parte-4-verificar-tu-pagina-web-el-dominio)
+- [Datos y verificación del negocio (solo con empresa)](proteger-portfolio.md#parte-5-datos-y-verificacion-del-negocio-solo-con-empresa)
 - [Si algo sale mal](proteger-portfolio.md#si-algo-sale-mal)
 
-**Próximamente** (dentro de "Proteger tu portfolio"): los datos de tu negocio, verificar tu página web, verificar tu negocio con documentos y tu píxel principal.
+**Próximamente** (dentro de "Proteger tu portfolio"): tu píxel principal.
