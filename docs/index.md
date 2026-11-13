@@ -22,6 +22,14 @@ Paso a paso, con fotos y sin palabras difíciles. Escritas para quien empieza de
 
     [:octicons-arrow-right-24: Ver la guía](meta/conectar-meta.md)
 
+-   :material-shield-lock:{ .lg } **Proteger tu portfolio**
+
+    ---
+
+    Pide un código del celular a todos y agrega un segundo administrador de confianza, para no perder tu negocio en Facebook.
+
+    [:octicons-arrow-right-24: Ver la guía](meta/proteger-portfolio.md)
+
 -   :material-google-ads:{ .lg } **Google Ads**
 
     ---
