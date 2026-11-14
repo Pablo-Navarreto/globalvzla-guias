@@ -189,6 +189,66 @@ Facebook también permite poner los datos de tu negocio (nombre legal, direcció
 
 ---
 
+## Parte 6. Tu píxel principal
+
+**Para qué sirve:** el píxel es un pequeño vigilante de Facebook que va en tu página web. Anota a cada persona que entra, aunque todavía no tengas anuncios. Con eso, Facebook arma **públicos**: grupos de gente que visitó tu página, a los que después les puedes mostrar anuncios en Facebook e Instagram. Facebook guarda a cada persona hasta **180 días**, y lo que no se anotó no se recupera. Por eso conviene crearlo cuanto antes.
+
+> **Ojo:** Facebook ahora llama al píxel **"conjunto de datos"**. Es lo mismo.
+
+> **¿Ves datos de las personas?** No. Facebook no te da nombres ni correos: solo los públicos para anunciar.
+
+**Paso 6.1.** En el menú de la izquierda toca **"Orígenes de datos"** para abrirlo y después **"Conjuntos de datos y píxeles"**.
+
+![El menú Orígenes de datos abierto](img/proteger-portfolio/23-origenes-de-datos.png)
+
+**Paso 6.2.** Arriba a la derecha toca **"Agregar"**. Si ya tienes algún píxel, aparece en la lista; no pasa nada, puedes crear otro.
+
+![La lista de conjuntos de datos y el botón Agregar](img/proteger-portfolio/24-conjuntos-de-datos.png)
+
+**Paso 6.3.** En **"Ingresa un nombre"** escribe un nombre fácil de reconocer, por ejemplo **"Mi Agencia - Pixel principal"**.
+
+![La ventana para crear el conjunto de datos](img/proteger-portfolio/25-crear-nombre.png)
+
+**Paso 6.4.** Deja **marcada** la casilla de la API de conversiones. Hace que el píxel también le mande los datos a Facebook por otro camino, y así se pierden menos visitas. Se puede apagar cuando quieras.
+
+![La casilla de la API de conversiones marcada](img/proteger-portfolio/26-casilla-api.png)
+
+**Paso 6.5.** En **"Selecciona las categorías aplicables"** no marques nada: es opcional.
+
+![La lista de categorías](img/proteger-portfolio/27-categorias.png)
+
+> **¿Por qué no marcar "Salud y bienestar"?** Si la marcas, Facebook recorta lo que el píxel puede usar, y te cuesta más hacer campañas que busquen compras. Igual Facebook puede limitarlo por su cuenta si ve que tu página habla de salud.
+
+**Paso 6.6.** Toca **"Crear"**. Facebook te avisa que el conjunto de datos quedó creado. Toca **"Ir al administrador de eventos"**.
+
+![El aviso de conjunto de datos creado](img/proteger-portfolio/28-creado.png)
+
+**Paso 6.7.** Ahí ves tu píxel nuevo. Dice que **"no recibió ninguna actividad"**: es normal, todavía no está en tu página.
+
+![El píxel nuevo en el administrador de eventos](img/proteger-portfolio/29-administrador-de-eventos.png)
+
+> **No toques "Configurar píxel de Meta".** Ese botón es para pegar el código a mano en cada página. Con la herramienta Global-VZLA no hace falta: ella lo pone en tu página (próximamente).
+
+### Cómo llega el píxel a una campaña
+
+Lo que vive dentro de tu portfolio (cuentas de anuncios, páginas, Instagram, píxeles) Facebook lo llama **"activos"**. El **Administrador de anuncios** no es un activo: es la herramienta donde armas las campañas.
+
+En el Administrador de anuncios primero eliges una **cuenta de anuncios**. **El píxel solo aparece si está conectado a esa cuenta de anuncios.** Si no lo ves al armar la campaña, es por eso.
+
+![Cómo llega el píxel a una campaña](img/proteger-portfolio/30-reparto-pixel.svg)
+
+En la ficha del píxel (Paso 6.2, a la derecha) hay tres pestañas:
+
+| Pestaña | Qué hace |
+|---|---|
+| **Personas** | Quién puede manejar el píxel. Solo da permiso: no lo pone en ninguna campaña. |
+| **Activos conectados** | Lo conecta a una cuenta de anuncios de **tu** portfolio. |
+| **Socios** | Lo presta al **portfolio entero de otra persona** (un cliente, otro portfolio tuyo). Te pide el número (ID) de ese portfolio. Después, **esa persona**, dentro de su portfolio, lo conecta a su cuenta de anuncios. |
+
+> **Ojo:** con Socios tú no eliges la cuenta de anuncios del otro. Le prestas el píxel a su portfolio y la otra persona lo conecta del lado de ella.
+
+---
+
 ## Si algo sale mal
 
 | Lo que ves | Qué hacer |
@@ -199,13 +259,15 @@ Facebook también permite poner los datos de tu negocio (nombre legal, direcció
 | No puedes elegir "Nadie" | Facebook dejó obligatoria la verificación para tu portfolio. Está bien así. |
 | Al agregar el dominio, dice que ya está en otro negocio | Ese dominio está en otro portfolio (quizá uno tuyo viejo). Hay que eliminarlo de allá primero. |
 | El dominio no se verifica | Revisa en Hostinger que el **Tipo** sea `TXT`, el **Nome** `@` y que el valor esté completo, sin espacios. Espera hasta 72 horas y vuelve a tocar "Verificar dominio". |
+| No aparece "Orígenes de datos" | No tienes control total del portfolio, o estás en otro portfolio. Revisa el nombre arriba a la izquierda. |
+| El píxel no aparece al armar una campaña | No está conectado a esa cuenta de anuncios. Conéctalo en "Activos conectados", o con "Socios" si la cuenta es de otro portfolio. |
 
 ---
 
 ## Lo que viene
 
-Próximamente, en esta misma guía: tu píxel principal.
+Próximamente: conectar tu píxel a una cuenta de anuncios, paso a paso con fotos.
 
 ---
 
-Fuentes (ayuda oficial de Meta): [Exigir la verificación en dos pasos](https://www.facebook.com/business/help/280940009201586) · [Verificación de dominios](https://es-la.facebook.com/business/help/286768115176155) · [Verificar tu dominio](https://en-gb.facebook.com/business/help/321167023127050) · [Verificar tu negocio](https://www.facebook.com/business/help/2058515294227817) · [Agregar personas al portfolio](https://www.facebook.com/business/help/2169003770027706) · [Centro de seguridad](https://www.facebook.com/business/help/216940652189296) · [Una sola cuenta personal](https://www.facebook.com/help/975828035803295)
+Fuentes (ayuda oficial de Meta): [Meta Pixel](https://developers.facebook.com/docs/meta-pixel/get-started) · [Públicos de tu página web](https://developers.facebook.com/docs/marketing-api/audiences/guides/website-custom-audiences) · [API de conversiones](https://developers.facebook.com/docs/marketing-api/conversions-api) · [Exigir la verificación en dos pasos](https://www.facebook.com/business/help/280940009201586) · [Verificación de dominios](https://es-la.facebook.com/business/help/286768115176155) · [Verificar tu dominio](https://en-gb.facebook.com/business/help/321167023127050) · [Verificar tu negocio](https://www.facebook.com/business/help/2058515294227817) · [Agregar personas al portfolio](https://www.facebook.com/business/help/2169003770027706) · [Centro de seguridad](https://www.facebook.com/business/help/216940652189296) · [Una sola cuenta personal](https://www.facebook.com/help/975828035803295)
