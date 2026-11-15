@@ -24,6 +24,18 @@ Guía para crear una **página de Facebook** sin que Facebook se ponga estricto 
 | **Página** (o **fanpage**) | La "cara" de tu negocio en Facebook. La ven los clientes. No es tu perfil personal. |
 | **Categoría** | El tipo de negocio. Facebook la muestra traducida al idioma de quien mira la página. |
 
+### El plan por días
+
+Una página **no se arma en un solo día**. Se reparte así:
+
+| Día | Qué haces | Estado de la guía |
+|---|---|---|
+| **Día 1** | Crear la página con nombre, categoría y descripción. Subir foto de perfil y portada. **Sin** teléfono, WhatsApp ni ubicación. | Lista, con fotos (Partes 1 a 3) |
+| **Día 2** | Apagar las reseñas. Poner el género en "Información". Configurar el asistente de moderación. | Próximamente, con fotos |
+| **Después** | Crear el Instagram de la página, programar publicaciones en Meta Business Suite, meter la página al portfolio comercial (BM), conectar Instagram y página, y empezar a usarla con la cuenta de anuncios. | Próximamente. Los días de cada uno se definen al escribirlos |
+
+> **Regla de oro:** un día, una cosa. No hagas el día 2 el mismo día que el 1, aunque Facebook te deje.
+
 ### Por qué se hace despacio
 
 Facebook **no publica** cuántas páginas se pueden crear por día. Lo que sí hace es vigilar señales raras: muchas páginas seguidas, desde la misma conexión y con cuentas nuevas. Cuando las ve, te avisa **"creaste demasiadas páginas"** o bloquea la cuenta por un tiempo.
@@ -129,7 +141,7 @@ Facebook te lleva a la página recién creada. A la izquierda ves el menú **"Ad
 
 ## Día 2 (próximamente con fotos)
 
-Para el día siguiente:
+Para el **día siguiente** (no el mismo día):
 
 - Apagar las **reseñas** de la página, para no recibir malas calificaciones.
 - Poner el **género** en "Información".
