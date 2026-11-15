@@ -8,6 +8,7 @@ Todo lo de Facebook e Instagram, en el orden en que conviene hacerlo. Cada guía
 |---|---|---|
 | 1 | [Conectar Facebook e Instagram](conectar-meta.md) | Que la herramienta vea tus negocios, páginas, Instagram, cuentas de anuncios y píxeles. |
 | 2 | [Proteger tu portfolio](proteger-portfolio.md) | Que nadie entre sin el código del celular, que tu portfolio no quede sin dueño, que tu página web quede a tu nombre y tener tu píxel principal. |
+| 3 | [Crear una página de Facebook](crear-pagina.md) | Crear la página con calma, el día 1, sin que Facebook se ponga estricto. |
 
 ### Dentro de cada guía
 
@@ -31,4 +32,12 @@ Todo lo de Facebook e Instagram, en el orden en que conviene hacerlo. Cada guía
 - [Cómo llega el píxel a una campaña](proteger-portfolio.md#como-llega-el-pixel-a-una-campana)
 - [Si algo sale mal](proteger-portfolio.md#si-algo-sale-mal)
 
-**Próximamente:** conectar tu píxel a una cuenta de anuncios.
+**3. Crear una página de Facebook**
+
+- [Antes de empezar (y por qué se hace despacio)](crear-pagina.md#antes-de-empezar)
+- [Crear la página](crear-pagina.md#parte-1-crear-la-pagina)
+- [Terminar de configurar (los 5 pasos)](crear-pagina.md#parte-2-terminar-de-configurar-los-5-pasos-de-facebook)
+- [La portada](crear-pagina.md#la-portada)
+- [Si algo sale mal](crear-pagina.md#si-algo-sale-mal)
+
+**Próximamente:** conectar tu píxel a una cuenta de anuncios, y el día 2 de la página (reseñas, género y moderación).
