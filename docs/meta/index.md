@@ -6,13 +6,22 @@ Todo lo de Facebook e Instagram, en el orden en que conviene hacerlo. Cada guía
 
 | # | Guía | Qué vas a lograr |
 |---|---|---|
-| 1 | [Conectar Facebook e Instagram](conectar-meta.md) | Que la herramienta vea tus negocios, páginas, Instagram, cuentas de anuncios y píxeles. |
-| 2 | [Proteger tu portfolio](proteger-portfolio.md) | Que nadie entre sin el código del celular, que tu portfolio no quede sin dueño, que tu página web quede a tu nombre y tener tu píxel principal. |
-| 3 | [Crear una página de Facebook](crear-pagina.md) | Crear la página con calma, el día 1, sin que Facebook se ponga estricto. |
+| 1 | [Crear un portfolio comercial](crear-portfolio.md) | Tener la "oficina" de tu negocio en Meta, con tu correo confirmado. |
+| 2 | [Conectar Facebook e Instagram](conectar-meta.md) | Que la herramienta vea tus negocios, páginas, Instagram, cuentas de anuncios y píxeles. |
+| 3 | [Proteger tu portfolio](proteger-portfolio.md) | Que nadie entre sin el código del celular, que tu portfolio no quede sin dueño, que tu página web quede a tu nombre y tener tu píxel principal. |
+| 4 | [Crear una página de Facebook](crear-pagina.md) | Crear la página con calma, el día 1, sin que Facebook se ponga estricto. |
 
 ### Dentro de cada guía
 
-**1. Conectar Facebook e Instagram**
+**1. Crear un portfolio comercial**
+
+- [Antes de empezar](crear-portfolio.md#antes-de-empezar)
+- [Llenar los datos](crear-portfolio.md#parte-2-llenar-los-datos)
+- [Confirmar el correo](crear-portfolio.md#parte-4-confirmar-el-correo)
+- [Revisar que todo quedó bien](crear-portfolio.md#parte-5-revisar-que-todo-quedo-bien)
+- [Si algo sale mal](crear-portfolio.md#si-algo-sale-mal)
+
+**2. Conectar Facebook e Instagram**
 
 - [Antes de empezar](conectar-meta.md#antes-de-empezar)
 - [Tu cuenta de Facebook](conectar-meta.md#parte-1-tu-cuenta-de-facebook)
@@ -21,7 +30,7 @@ Todo lo de Facebook e Instagram, en el orden en que conviene hacerlo. Cada guía
 - [Conectar desde la app](conectar-meta.md#parte-9-conectar-desde-la-app)
 - [Si algo sale mal](conectar-meta.md#si-algo-sale-mal)
 
-**2. Proteger tu portfolio**
+**3. Proteger tu portfolio**
 
 - [Pedir un código del celular a todos](proteger-portfolio.md#parte-1-pedir-un-codigo-del-celular-a-todos)
 - [Agregar un segundo administrador](proteger-portfolio.md#parte-2-agregar-un-segundo-administrador)
@@ -32,7 +41,7 @@ Todo lo de Facebook e Instagram, en el orden en que conviene hacerlo. Cada guía
 - [Cómo llega el píxel a una campaña](proteger-portfolio.md#como-llega-el-pixel-a-una-campana)
 - [Si algo sale mal](proteger-portfolio.md#si-algo-sale-mal)
 
-**3. Crear una página de Facebook**
+**4. Crear una página de Facebook**
 
 - [Antes de empezar (y por qué se hace despacio)](crear-pagina.md#antes-de-empezar)
 - [Crear la página](crear-pagina.md#parte-1-crear-la-pagina)

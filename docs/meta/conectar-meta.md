@@ -45,6 +45,8 @@ Si ya tienes Facebook, salta a la Parte 2.
 
 ## Parte 2. Tu portfolio comercial (la "oficina" de tu negocio)
 
+> Si todavía no tienes portfolio, sigue la guía con fotos **[Crear un portfolio comercial](crear-portfolio.md)** y vuelve aquí. Este es el resumen:
+
 1. Entra a **business.facebook.com** con tu cuenta de Facebook.
 2. Arriba a la izquierda toca el **nombre del portfolio**. Si todavía no tienes uno, Facebook te ofrece crearlo directamente.
 3. Toca **"Crear un portfolio comercial"**.
